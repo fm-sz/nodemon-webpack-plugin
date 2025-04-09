@@ -42,7 +42,7 @@
   },
   "homepage": "https://github.com/Izhaki/nodemon-webpack-plugin.git",
   "dependencies": {
-    "@types/nodemon": "latest",
+    "@types/nodemon": "^1.19.3",
     "nodemon": "3.0.1"
   },
   "peerDependencies": {
@@ -71,12 +71,12 @@
     "lint-staged": "^10.5.3",
     "mustache": "4.2.0",
     "prettier": "^2.7.1",
-    "rimraf": "3.0.2",
+    "rimraf": "6.0.1",
     "semantic-release": "^19.0.3",
     "tmp": "^0.2.1",
     "tree-kill": "^1.2.2",
     "typescript": "^4.7.4",
-    "webpack": "^5.89.0",
+    "webpack": "^5.99.5",
     "webpack-cli": "^4.3.1",
     "webpack-node-externals": "2.5.2"
   },
